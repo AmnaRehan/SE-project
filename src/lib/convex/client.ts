@@ -1,5 +1,4 @@
 "use client";
-
 import { ConvexReactClient } from "convex/react";
 
 export const convex = new ConvexReactClient(
